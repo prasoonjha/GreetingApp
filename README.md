@@ -1,2 +1,0 @@
-# GreetingApp
-Created with CodeSandbox
